@@ -1,8 +1,8 @@
 <?php
 $host = "sql204.infinityfree.com";
 $port = "3306";
-$username = "if0_35519255";
-$password = "RXs3tJVdicJkt";
+$username = "secret_username";
+$password = "secret_password";
 $dbname = "if0_35519255_databaseforlab";
 $connection = new mysqli($host, $username, $password, $dbname);
 
